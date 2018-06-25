@@ -1,7 +1,7 @@
 # Slinger_twee_perioden
 
-Research about the path of a pendulum with two columns
-Abstract below in Duch
+Research about the path of a pendulum with two columns.
+Abstract in Duch:
 
 Het bestuderen van bewegingen is erg belangrijk. In dit onderzoeksver-
 slag worden de resultaten gepubliceerd van het onderzoek naar de bewe-
