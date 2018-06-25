@@ -10,7 +10,7 @@ verschillende richtingen slingert met in elke richting een eigen periode of
 trillingstijd. De reguliere manier van het beschrijven van deze beweging is
 door er van uit te gaan dat een slinger als harmonische trilling beschouwd
 mag worden. Voor grotere uitwijkingshoeken werkt dit niet. In dit verslag
-wordt stap voor stap uitgelegd hoe er een stelsel dierentiaalvergelijkin-
+wordt stap voor stap uitgelegd hoe er een stelsel differentiaalvergelijkin-
 gen kan worden opgesteld die vervolgens gebruikt kunnen worden door met
 de methode van Euler een numeriek dynamisch model te programmeren.
 Vervolgens worden de proeven beschreven waarmee het model is getest
