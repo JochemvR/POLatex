@@ -3,26 +3,4 @@
 Research about the path of a pendulum with two columns.
 Abstract in Duch:
 
-Het bestuderen van bewegingen is erg belangrijk. In dit onderzoeksver-
-slag worden de resultaten gepubliceerd van het onderzoek naar de bewe-
-ging van een object dat slingert aan een tweedelige slinger die in twee
-verschillende richtingen slingert met in elke richting een eigen periode of
-trillingstijd. De reguliere manier van het beschrijven van deze beweging is
-door er van uit te gaan dat een slinger als harmonische trilling beschouwd
-mag worden. Voor grotere uitwijkingshoeken werkt dit niet. In dit verslag
-wordt stap voor stap uitgelegd hoe er een stelsel differentiaalvergelijkin-
-gen kan worden opgesteld die vervolgens gebruikt kunnen worden door met
-de methode van Euler een numeriek dynamisch model te programmeren.
-Vervolgens worden de proeven beschreven waarmee het model is getest
-en de resultaten van de metingen uiteengezet. Er zijn drie proeven uitge-
-voerd. De eerste proef was met een foto maken met een lange sluitertijd
-in een verduisterde kamer van een lampje aan een slinger met twee perio-
-den. De tweede proef was doormiddel van een meetopstelling van hout en
-metalen verbindingsstukken met een telefoon waarbij de beweging werd
-geregistreerd met een gyroscoop. Gezien de meetonnauwkeurigheden bij
-deze twee methoden zijn we hebben we de laatste methode gekozen als
-meest nauwkeurige meetmethode: videometen. Doormiddel van een hoge
-resolutie camera zijn is er een beweging gelmd die vervolgens handmatig
-met de videomeetsoftware CMA Coach 7 geanalyseerd is. De grote over-
-eenstemming van het model en de resultaten wijzen erop dat het model
-niet verworpen hoeft te worden.
+Het bestuderen van bewegingen is erg belangrijk. In dit onderzoeksverslag worden de resultaten gepubliceerd van het onderzoek naar de beweging van een object dat slingert aan een tweedelige slinger, die in twee verschillende richtingen slingert met in elke richting een eigen periode. De reguliere manier van het beschrijven van deze beweging is door er van uit te gaan dat de slingerbeweging als twee harmonische trillingen beschouwd mag worden die loodrecht op elkaar staan. Voor grotere uitwijkingshoeken werkt dit echter niet. In dit verslag wordt stap voor stap uitgelegd hoe er een stelsel differentiaalvergelijkingen wordt opgesteld die gebruikt kan worden door met de methode van Euler een numeriek dynamisch model te programmeren. Om deze hypothese te toetsen is de slinger nagemaakt en zijn er metingen aan die opstelling gedaan. De meetopstelling bestond uit houten verbindingsstukken die met kogellagers aan elkaar zijn gemonteerd, zodat de slinger met weinig wrijving in de gewenste richtingen kan bewegen. Met twee Arduino's en twee gyroscopen zijn de hoeksnelheden gemeten en vervolgens vergeleken met de uitkomsten van het model. Bij kleine begin hoeken lijken de door het model berekende waarden in overeenstemming te zijn met de meetresultaten. Voor grotere beginhoeken is een afwijking duidelijk zichtbaar. Dit komt vermoedelijk doordat de valversnelling niet goed ontbonden is en doordat er met een verkeerde hoek is doorgerekend in het model. Momenteel beschikken wij niet over de benodigde wis- en natuurkundige kennis om deze problemen op te kunnen lossen. De resultaten van de meting wijzen erop dat de huidige hypothese verworpen moet worden.
